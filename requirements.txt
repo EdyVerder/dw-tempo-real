@@ -1,0 +1,2 @@
+# a demonstração usa só a biblioteca padrão; o pytest é para os testes
+pytest>=8.0
