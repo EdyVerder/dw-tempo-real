@@ -51,7 +51,7 @@ flowchart LR
 ## Rodando a demonstração
 
 ```bash
-git clone https://github.com/EdyRocha2005/dw-tempo-real.git
+git clone https://github.com/EdyVerder/dw-tempo-real.git
 cd dw-tempo-real
 python -m espelho            # ERP fictício com 5.000 títulos, 6 rodadas e a trava no final
 python -m pip install pytest
@@ -86,4 +86,4 @@ tests/
 
 ---
 
-<p align="center"><sub>Feito por <a href="https://github.com/EdyRocha2005">Rocha</a> · dados fictícios · licença MIT</sub></p>
+<p align="center"><sub>Feito por <a href="https://github.com/EdyVerder">Rocha</a> · dados fictícios · licença MIT</sub></p>
